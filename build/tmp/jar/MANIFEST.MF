@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: shark_mod
+Implementation-Version: 0.1
+Specification-Vendor: examplemodsareus
+Specification-Title: sharkMod
+Implementation-Timestamp: 2019-08-11T14:39:59+0930
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
