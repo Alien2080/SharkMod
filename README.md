@@ -21,7 +21,8 @@ Forge 1.14.4
 Java 1.8(8)
 
 ### Development logbook
-I am keeping a logbook of my development efforts [here](docs/development_logbook.md)
+I am keeping a logbook of my development efforts ~~[here](docs/development_logbook.md)~~ Sorry, that would be nicer for reader, but for
+my workflow it is easier to dump everything in a [word document](docs/logbook_shark_mod.docx) with terrible spelling and grammar.
 
 
 
